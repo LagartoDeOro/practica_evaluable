@@ -6,7 +6,7 @@ Este repositorio es creado en la practica de la segunda evaluación, donde debo 
 Comandos git usados:
 cd repositorio: Este comando cambia el directorio actual al directorio llamado “repositorio”.
 
-git init: Este comando inicializa un nuevo repositorio Git en el directorio actual.
+- git init: Este comando inicializa un nuevo repositorio Git en el directorio actual.
 
 echo "mi documento" > documento.txt: Este comando crea un archivo llamado “documento.txt” y escribe “mi documento” en él.
 
