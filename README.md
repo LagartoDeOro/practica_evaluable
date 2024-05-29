@@ -42,10 +42,40 @@ cd repositorio: Este comando cambia el directorio actual al directorio llamado �
 
 - git branch: Este comando muestra las ramas locales.
 
-- git branch -d mirama: Este comando elimina la rama local “mirama”.
+- git branch -d mirama: Este comando elimina la rama local
+- “mirama”.
 
 - git push origin --delete mirama: Este comando elimina la rama “mirama” del repositorio remoto “origin”.
 
 - git branch -a: Este comando muestra todas las ramas locales y remotas.
 
 - git tag V1: Este comando crea una nueva etiqueta llamada “V1” en el commit actual.
+
+@author: Identifica al autor del código o de la documentación.
+
+@version: Indica la versión del código o del método/documento.
+
+@param: Describe un parámetro de un método, especificando su nombre
+
+y su propósito.
+
+@return: Documenta el valor de retorno de un método.
+@throws: Describe las excepciones que un método puede lanzar.
+
+@see: Crea un enlace a otra clase, método o paquete relacionado.
+
+@since: Indica la versión en la que se introdujo un método o clase.
+
+@serial: Controla la serialización de un objeto.
+
+@deprecated: Marca un método o clase como obsoleto, indicando que se
+
+desaconseja su uso en futuras versiones del código.
+
+@serialData: Se utiliza para documentar el formato de datos serializados
+
+en un objeto.
+
+@serialField: Se utiliza para documentar campos en una clase
+serializable.
+
